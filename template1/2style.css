@@ -1,0 +1,11 @@
+.header{
+    display:flex;
+    flex-flow:row-reverse;
+}
+.header .hg{
+    flex-basis:calc(100% - 300px);
+    background-color:red;
+}
+.header .gh{
+    background-color:blue;
+}
